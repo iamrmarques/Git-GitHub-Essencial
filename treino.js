@@ -8,7 +8,7 @@ console.log(resultado)
 let valor = 10
 let valor2 = 20
 
-let resultado2 = valor > valor2
+let resultado2 = valor < valor2
 
-console.log(resultado)
+console.log(resultado2)
 
